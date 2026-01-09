@@ -1,0 +1,9 @@
+{
+  "tool_name": "PHANTOM CORE",
+  "endpoint_health": "http://127.0.0.1:5050/health",
+  "endpoint_session": "http://127.0.0.1:5050/session",
+  "shared_secret": "PHANTOM_CORE_SECRET_2026_SECURE",
+
+  "user_key_sha256": "3bfcb6ccaff368a9d942c02581f64da466817915cb95b2191477dfa92ab22b07",
+  "admin_key_sha256": "2f60efc9c19ca78b843ea8d3d69882a0e3fc953c9dd91e57b46706df77c704a0"
+}
